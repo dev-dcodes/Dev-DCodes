@@ -2,6 +2,9 @@
 <h1 align="center">Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
 </div>
 
+# About me
+I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
