@@ -2,8 +2,6 @@
 <h1 align="center">Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
 </div>
 
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
-
 <pag alinear="centro">
   <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
