@@ -3,7 +3,7 @@
 </div>
 
 # About me
-I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
+Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
