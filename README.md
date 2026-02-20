@@ -2,8 +2,11 @@
 <h1 align="center">Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
 </div>
 
-
-
+<pag alinear="centro">
+  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
+</pag>
 
 # About me
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
