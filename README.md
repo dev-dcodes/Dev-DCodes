@@ -95,6 +95,7 @@
       </td>
     </tr>
   </table>
+</div>
 
 <br>
 
@@ -163,3 +164,79 @@
     <small>⭐ From <a href="https://github.com/dev-dcodes">dev-dcodes</a> with passion for mobile development</small>
   </p>
 </div>
+
+<!-- ESTILOS RESPONSIVE - Sin alterar la estructura -->
+<style>
+  /* Para móviles - mantiene toda la estructura original */
+  @media (max-width: 768px) {
+    /* Ajuste del header animado */
+    img[src*="readme-typing-svg"] {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+    
+    /* Stats badges se apilan en móvil */
+    div > p > a {
+      display: inline-block;
+      margin: 3px;
+    }
+    
+    /* Tecnologías badges se ajustan */
+    div[align="center"] p img {
+      max-width: 100%;
+      height: auto;
+      margin: 3px;
+    }
+    
+    /* Tablas se vuelven verticales */
+    table, tbody, tr, td {
+      display: block !important;
+      width: 100% !important;
+      text-align: center !important;
+    }
+    
+    /* Imágenes de GitHub Stats */
+    img[height="180em"] {
+      max-width: 100% !important;
+      height: auto !important;
+      margin: 10px 0;
+    }
+    
+    /* Listas con mejor espaciado */
+    ul {
+      padding-left: 20px;
+    }
+    
+    ul li {
+      margin: 8px 0;
+    }
+    
+    /* Texto justificado se mantiene pero con padding */
+    p[align="justify"] {
+      padding: 0 15px;
+    }
+    
+    /* Footer wave */
+    img[src*="capsule-render"] {
+      width: 100% !important;
+    }
+  }
+  
+  /* Para pantallas muy pequeñas */
+  @media (max-width: 480px) {
+    /* Reducir padding en textos */
+    p[align="justify"] {
+      padding: 0 10px;
+      font-size: 14px;
+    }
+    
+    /* Badges más pequeños */
+    img[src*="shields.io"] {
+      transform: scale(0.9);
+    }
+    
+    h2 {
+      font-size: 20px;
+    }
+  }
+</style>
