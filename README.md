@@ -1,12 +1,6 @@
 <div align="center">
   <h1>Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
-    <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
-  </p>
-</div>
-
 # About me
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 
@@ -118,12 +112,6 @@ Computer Science Engineering student passionate about mobile application develop
   <sub>⚠️ Reemplaza "repo=dev-dcodes" con los nombres reales de tus repositorios destacados</sub>
 </div>
 
-### 🏆 &nbsp;GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-dcodes&theme=algolia&no-frame=true&row=2&column=4"/>
-</div>
-
 ### 🤝 &nbsp;Connect with Me
 
 <div align="center">
@@ -148,9 +136,6 @@ Computer Science Engineering student passionate about mobile application develop
   <br>
   <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
   <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
-  
-  <br><br>
-  <img src="https://raw.githubusercontent.com/dev-dcodes/dev-dcodes/output/snake.svg" alt="Snake animation" />
   
   <br>
   <sub>⭐️ From [dev-dcodes](https://github.com/dev-dcodes)</sub>
