@@ -35,18 +35,18 @@ I believe mobile technology has the power to transform lives. Every line of code
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
 </p>
 
 <br>
