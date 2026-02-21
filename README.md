@@ -35,18 +35,18 @@ I believe mobile technology has the power to transform lives. Every line of code
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" title="Swift"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" title="Kotlin"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" title="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" title="Android Studio"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" title="Xcode"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" title="Firebase"/>
 </p>
 
 <br>
