@@ -76,42 +76,6 @@ Computer Science Engineering student passionate about mobile application develop
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-dcodes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="dev-dcodes" />
-</div>
-
-### 📌 &nbsp;Pinned Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/dev-dcodes?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dcodes&repo=dev-dcodes&theme=algolia&show_owner=true"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/dev-dcodes?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dcodes&repo=dev-dcodes&theme=algolia&show_owner=true"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/dev-dcodes?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dcodes&repo=dev-dcodes&theme=algolia&show_owner=true"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/dev-dcodes?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dcodes&repo=dev-dcodes&theme=algolia&show_owner=true"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <sub>⚠️ Reemplaza "repo=dev-dcodes" con los nombres reales de tus repositorios destacados</sub>
-</div>
-
 ### 🤝 &nbsp;Connect with Me
 
 <div align="center">
