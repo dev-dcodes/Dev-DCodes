@@ -76,12 +76,11 @@ You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or hire me on:
 ## Contact
 
 <div align="center">
-  
-<a href="mailto:tucorreo@gmail.com">
-  <img src="https://img.shields.io/badge/tucorreo@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 <a href="https://www.instagram.com/tu-usuario/">
   <img src="https://img.shields.io/badge/@tu.usuario-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:tucorreo@gmail.com">
+  <img src="https://img.shields.io/badge/tucorreo@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.linkedin.com/in/tu-usuario/">
   <img src="https://img.shields.io/badge/Tu%20Nombre-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
