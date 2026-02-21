@@ -2,15 +2,11 @@
   <!-- Header con tipografía animada -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=5865F2&center=true&vCenter=true&repeat=true&width=550&height=70&lines=Hello!+I'm+Deivis+Colmenares;Mobile+Developer" alt="Typing SVG" />
   
-  <!-- GitHub Badge -->
+<!-- GitHub Badge and Stats Bar (Horizontal) -->
   <p>
     <a href="https://github.com/dev-dcodes">
       <img src="https://img.shields.io/badge/@dev--dcodes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-  </p>
-  
-  <!-- Stats Bar -->
-  <p>
     <a href="https://github.com/dev-dcodes?tab=followers">
       <img src="https://img.shields.io/github/followers/dev-dcodes?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=2ea44f" alt="Followers" />
     </a>
