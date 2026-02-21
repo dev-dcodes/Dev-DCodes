@@ -78,16 +78,16 @@ You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or hire me on:
 <div align="center">
   
 <a href="mailto:tucorreo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/tucorreo@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="mailto:tucorreo@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  <img src="https://img.shields.io/badge/tucorreo@outlook.com-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
 </a>
 <a href="https://www.instagram.com/tu-usuario/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/@tu.usuario-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/tu-usuario/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Tu%20Nombre-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
