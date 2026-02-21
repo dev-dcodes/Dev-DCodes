@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://github.com/dev-dcodes">Deivis Colmenares</a> </h1>
+  <h1>Hola, soy <a href="https://github.com/dev-dcodes">Deivis Colmenares</a></h1>
 </div>
 
 <p align="center">
@@ -14,76 +14,85 @@
   </a>
 </p>
 
-## About me
+<br>
+
+## About Me
 System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
+
+<br>
 
 ## My Purpose
 I believe mobile technology has the power to transform lives. Every line of code I write is a step toward creating **innovative solutions** that can:
-- **Solve real problems** in education, health, and environment
-- **Connect people** across cultures and communities
-- **Make technology accessible** to everyone, everywhere
-- **Drive positive change** through thoughtful, user-centered design
+- 🌍 **Solve real problems** in education, health, and environment
+- 🤝 **Connect people** across cultures and communities
+- 💚 **Make technology accessible** to everyone, everywhere
+- 🚀 **Drive positive change** through thoughtful, user-centered design
+
+<br>
 
 <div align="center">
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,js,flutter,react,androidstudio,xcode,vscode,git,firebase" alt="Technologies and Tools" />
 </p>
-  
-### GitHub Analytics
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-dcodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      </td>
-      <td width="50%">
-        <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-dcodes&layout=compact&langs_count=8&theme=algolia"/>
-      </td>
-    </tr>
-  </table>
+
+<br>
+
+### 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-dcodes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </td>
+    <td width="50%">
+      <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-dcodes&layout=compact&langs_count=8&theme=algolia"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+<br>
 
 <!-- MOBILE DEVELOPER - CONTACT GRID -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
-## Let's Work on Your Mobile App!
+## 📱 Let's Work on Your Mobile App!
 
 Have a mobile project in mind or need help with iOS/Android development? Let's talk!
 
 You can reach me at <a href="mailto:dev.dcodes@gmail.com">email</a> or contact me on:
 
-- <a href="mailto:dev.dcodes@gmail.com">Gmail</a> for direct communication
-- <a href="https://www.linkedin.com/in/dev-dcodes/">LinkedIn</a> for professional collaborations
+• <a href="mailto:dev.dcodes@gmail.com">Gmail</a> for direct communication<br>
+• <a href="https://www.linkedin.com/in/dev-dcodes/">LinkedIn</a> for professional collaborations
 
   </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-## Looking to Improve Your App?
+## 💡 Looking to Improve Your App?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Feedback-Welcome-brightgreen">**
 
-"The best code is the one never written, but the best app is the one that reaches users. Let's make your idea happen."
+> "The best code is the one never written, but the best app is the one that reaches users. Let's make your idea happen."
 
 **Got feedback?** I'm always open to new ideas and opportunities to create amazing mobile experiences.
 
   </td>
   </tr>
 </table>
+
 <br>
 
 <div align="center">
 
-## Contact
+## 📬 Contact
 
-<div align="center">
-  
-<a href="https://www.instagram.com/dev-dcodes/">
+<a href="https://www.instagram.com/dev.dcodes/">
   <img src="https://img.shields.io/badge/@dev.dcodes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:dev.dcodes@gmail.com">
