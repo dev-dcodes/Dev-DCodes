@@ -29,7 +29,7 @@ System Engineering student passionate about mobile application development. I fo
     </tr>
   </table>
 </div>
-<br>
+
 
 <!-- MOBILE DEVELOPER - CONTACT GRID -->
 <table>
