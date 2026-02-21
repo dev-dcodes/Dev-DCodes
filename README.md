@@ -24,9 +24,8 @@ I believe mobile technology has the power to transform lives. Every line of code
 - **Make technology accessible** to everyone, everywhere
 - **Drive positive change** through thoughtful, user-centered design
 <br>
-> *"The best apps are the ones that don't just work well, but actually make the world work a little better."*
 <br>
-  
+
 ### GitHub Analytics
   
 <div align="center">
