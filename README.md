@@ -43,7 +43,7 @@ Puedes contactarme por <a href="mailto:tucorreo@gmail.com">email</a> o contratar
 - <a href="https://www.fiverr.com/">Fiverr</a> como Mobile Developer
 - <a href="https://www.linkedin.com/">LinkedIn</a> para colaboraciones profesionales
 
-Especialista en **React Native, Swift, Kotlin** y aplicaciones multiplataforma.
+Especialista en **Flutter, Swift, Kotlin** y aplicaciones multiplataforma.
 
   </td>
     <td width="50%" valign="top">
@@ -54,7 +54,7 @@ Especialista en **React Native, Swift, Kotlin** y aplicaciones multiplataforma.
 
 "El mejor código es el que nunca se escribe, pero la mejor app es la que llega a los usuarios. Hagamos realidad tu idea."
 
-💡 **¿Tienes feedback?** Siempre estoy abierto a nuevas ideas y oportunidades para crear experiencias móviles increíbles.
+**¿Tienes feedback?** Siempre estoy abierto a nuevas ideas y oportunidades para crear experiencias móviles increíbles.
 
   </td>
   </tr>
