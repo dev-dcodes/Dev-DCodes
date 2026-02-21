@@ -6,10 +6,8 @@
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 <br>
 
-
   ### ⚙️ GitHub Analytics
-</div>
-
+  
 <div align="center">
   <table>
     <tr>
@@ -23,35 +21,8 @@ Computer Science Engineering student passionate about mobile application develop
   </table>
 </div>
 
-
   ### 📈 Contributions
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="dev-dcodes" />
 </div>
 
-
-  ### 🤝 Connect with Me
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
-  <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
-  
-  <br>
-  <sub>⭐️ From [dev-dcodes](https://github.com/dev-dcodes)</sub>
-</div>
