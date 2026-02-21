@@ -104,34 +104,34 @@
 <br>
 
 <!-- Contact & Collaboration Section -->
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h2>📱 Let's Work Together</h2>
-      <p>
-        Have a mobile project in mind?<br>
-        Need help with iOS/Android development?<br>
-        <b>Let's create something amazing!</b>
-      </p>
-      <br>
-      <a href="mailto:dev.dcodes@gmail.com">
-        <img src="https://img.shields.io/badge/📧%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h2>💬 Open to Feedback</h2>
-      <p>
-        <i>"The best code is the one never written,<br>but the best app is the one that reaches users."</i>
-      </p>
-      <br>
-      <p>
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h2>📱 Let's Work Together</h2>
+        <p>
+          Have a mobile project in mind?<br>
+          Need help with iOS/Android development?<br>
+          <b>Let's create something amazing!</b>
+        </p>
+        <br>
+        <a href="mailto:dev.dcodes@gmail.com">
+          <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h2>💬 Open to Feedback</h2>
+        <p>
+          <i>"The best code is the one never written,<br>but the best app is the one that reaches users."</i>
+        </p>
+        <br>
         <img src="https://img.shields.io/badge/✨-Open%20to%20New%20Ideas-brightgreen?style=flat-square" alt="Open to Ideas"/>
         <br>
         <img src="https://img.shields.io/badge/🤝-Available%20for%20Collaboration-blue?style=flat-square" alt="Available for Collaboration"/>
-      </p>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
