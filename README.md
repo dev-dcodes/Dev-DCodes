@@ -2,10 +2,6 @@
   <h1>Hola, soy <a href="https://github.com/dev-dcodes">Deivis Colmenares</a> 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://github.com/dev-dcodes/Dev-DCodes/blob/main/Banner.jpg" alt="Dev-DCodes Banner" width="100%"/>
-</div>
-
 ## About me
 System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 <br>
