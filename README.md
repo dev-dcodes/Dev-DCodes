@@ -13,7 +13,7 @@
 System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 
 
-  ### ⚙️ GitHub Analytics
+  ### GitHub Analytics
   
 <div align="center">
   <table>
@@ -34,7 +34,7 @@ System Engineering student passionate about mobile application development. I fo
   <tr>
     <td width="50%" valign="top">
 
-## ¡Trabajemos en tu App Móvil! 📱
+## ¡Trabajemos en tu App Móvil!
 
 ¿Tienes un proyecto móvil en mente o necesitas ayuda con desarrollo iOS/Android? ¡Escríbeme!
 
@@ -48,7 +48,7 @@ Especialista en **Flutter, Swift, Kotlin** y aplicaciones multiplataforma.
   </td>
     <td width="50%" valign="top">
 
-## ¿Buscas mejorar tu App? 🚀
+## ¿Buscas mejorar tu App?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Feedback-Bienvenido-brightgreen">**
 
