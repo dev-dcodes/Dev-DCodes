@@ -27,9 +27,3 @@ System Engineering student passionate about mobile application development. I fo
     </tr>
   </table>
 </div>
-
-  ### 📈 Contributions
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="dev-dcodes" />
-</div>
-
