@@ -98,7 +98,7 @@
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="GitHub Streak" width="50%"/>
 </div>
 
 <br>
