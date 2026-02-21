@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
+  <h1>Hola, soy <a href="https://github.com/dev-dcodes">Dev-DCodes</a> 👋</h1>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
+    <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
+  </p>
 </div>
-
-<pag alinear="centro">
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-</pag>
 
 # About me
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
@@ -23,4 +23,9 @@ Computer Science Engineering student passionate about mobile application develop
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
+  <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
 </div>
