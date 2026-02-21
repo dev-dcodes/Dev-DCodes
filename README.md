@@ -8,6 +8,7 @@
   <a href="https://github.com/Pepyn0?tab=followers">
     <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
   </a>
+  ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 </p>
 
 ## About me
