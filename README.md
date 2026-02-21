@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blue" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/TU-USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/TU-USERNAME?style=social" alt="Followers" />
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/TU-USERNAME?tab=stars">
-    <img src="https://img.shields.io/github/stars/TU-USERNAME?style=social" alt="GitHub User's stars" />
+  <a href="https://github.com/bindian0509?tab=stars">
+    <img src="https://img.shields.io/github/stars/bindian0509?style=social" alt="GitHub User's stars" />
   </a>
 </p>
 
