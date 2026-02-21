@@ -25,53 +25,27 @@
 
 <br>
 
-<!-- About Me Section - SIN SCROLL -->
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <h2>📱 About Me</h2>
-      <p>
-        System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
-      </p>
-      
-      <h2>🎯 My Purpose</h2>
-      <p>
-        I believe mobile technology has the power to transform lives. Every line of code I write is a step toward creating <b>innovative solutions</b> that can:
-      </p>
-      
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            🌍 <b>Solve real problems</b><br>
-            <small>in education, health, and environment</small>
-          </td>
-          <td width="50%" valign="top">
-            🤝 <b>Connect people</b><br>
-            <small>across cultures and communities</small>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" valign="top">
-            💚 <b>Make technology accessible</b><br>
-            <small>to everyone, everywhere</small>
-          </td>
-          <td width="50%" valign="top">
-            🚀 <b>Drive positive change</b><br>
-            <small>through thoughtful, user-centered design</small>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/dev-dcodes.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #5865F2;" alt="Deivis Colmenares"/>
-      <br><br>
-      <h3>📍 Venezuela</h3>
-      <p>
-        <i>"Code with purpose,<br>build with passion"</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- About Me Section - VERSIÓN ORIGINAL MEJORADA -->
+<h2>📱 About Me</h2>
+
+<p align="justify">
+  System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
+</p>
+
+<br>
+
+<h2>🎯 My Purpose</h2>
+
+<p align="justify">
+  I believe mobile technology has the power to transform lives. Every line of code I write is a step toward creating <b>innovative solutions</b> that can:
+</p>
+
+<ul>
+  <li>🌍 <b>Solve real problems</b> in education, health, and environment</li>
+  <li>🤝 <b>Connect people</b> across cultures and communities</li>
+  <li>💚 <b>Make technology accessible</b> to everyone, everywhere</li>
+  <li>🚀 <b>Drive positive change</b> through thoughtful, user-centered design</li>
+</ul>
 
 <br>
 
@@ -81,29 +55,23 @@
   
   <br>
   
-  <!-- Mobile -->
-  <h3>📱 Mobile Development</h3>
   <p>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </p>
-  
-  <!-- Frontend -->
-  <h3>🌐 Frontend Development</h3>
-  <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </p>
   
-  <!-- Tools -->
-  <h3>🔧 Development Tools</h3>
   <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </p>
+  
+  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
