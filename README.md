@@ -39,18 +39,6 @@ Computer Science Engineering student passionate about mobile application develop
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
         <br>Flutter
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
-        <br>Firebase
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-        <br>Git
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
-        <br>Figma
-      </td>
     </tr>
   </table>
 </div>
