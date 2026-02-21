@@ -25,6 +25,34 @@ I believe mobile technology has the power to transform lives. Every line of code
 - **Drive positive change** through thoughtful, user-centered design
 
 <div align="center">
+
+## 🛠️ Herramientas y Tecnologías
+
+<br>
+
+### 💻 Entornos de Desarrollo Integrados (IDEs)
+
+<p align="center">
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
+</p>
+<br>
+
+### 📝 Principales Editores de Código
+
+<p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+</p>
+<br>
+
+### 📱 Entornos de Desarrollo Multiplataforma (Frameworks/SDKs)
+
+<p align="center">
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/></a>
+</p>
+<br>
   
   ### GitHub Analytics
   
