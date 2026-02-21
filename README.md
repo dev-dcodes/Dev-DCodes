@@ -24,6 +24,7 @@ I believe mobile technology has the power to transform lives. Every line of code
 - **Make technology accessible** to everyone, everywhere
 - **Drive positive change** through thoughtful, user-centered design
 <br>
+
 ### GitHub Analytics
   
 <div align="center">
