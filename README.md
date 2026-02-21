@@ -29,30 +29,30 @@ System Engineering student passionate about mobile application development. I fo
 </div>
 <br>
 
-<!-- MOBILE DEVELOPER - CONTACTO EN GRID -->
+<!-- MOBILE DEVELOPER - CONTACT GRID -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
-## ¡Trabajemos en tu App Móvil!
+## Let's Work on Your Mobile App!
 
-¿Tienes un proyecto móvil en mente o necesitas ayuda con desarrollo iOS/Android? ¡Escríbeme!
+Have a mobile project in mind or need help with iOS/Android development? Let's talk!
 
-Puedes contactarme por <a href="mailto:tucorreo@gmail.com">email</a> o contratarme en:
+You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or hire me on:
 
-- <a href="https://www.fiverr.com/">Fiverr</a> como Mobile Developer
-- <a href="https://www.linkedin.com/">LinkedIn</a> para colaboraciones profesionales
+- <a href="https://www.fiverr.com/">Fiverr</a> as a Mobile Developer
+- <a href="https://www.linkedin.com/">LinkedIn</a> for professional collaborations
 
   </td>
     <td width="50%" valign="top">
 
-## ¿Buscas mejorar tu App?
+## Looking to Improve Your App?
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Feedback-Bienvenido-brightgreen">**
+**<img alt="Feedback" src="https://img.shields.io/badge/Feedback-Welcome-brightgreen">**
 
-"El mejor código es el que nunca se escribe, pero la mejor app es la que llega a los usuarios. Hagamos realidad tu idea."
+"The best code is the one never written, but the best app is the one that reaches users. Let's make your idea happen."
 
-**¿Tienes feedback?** Siempre estoy abierto a nuevas ideas y oportunidades para crear experiencias móviles increíbles.
+**Got feedback?** I'm always open to new ideas and opportunities to create amazing mobile experiences.
 
   </td>
   </tr>
