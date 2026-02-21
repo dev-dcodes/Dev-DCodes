@@ -57,6 +57,7 @@ You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or hire me on:
   </td>
   </tr>
 </table>
+<br>
 
 <div align="center">
 
