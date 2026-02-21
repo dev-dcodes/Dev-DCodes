@@ -43,8 +43,6 @@ Puedes contactarme por <a href="mailto:tucorreo@gmail.com">email</a> o contratar
 - <a href="https://www.fiverr.com/">Fiverr</a> como Mobile Developer
 - <a href="https://www.linkedin.com/">LinkedIn</a> para colaboraciones profesionales
 
-Especialista en **Flutter, Swift, Kotlin** y aplicaciones multiplataforma.
-
   </td>
     <td width="50%" valign="top">
 
