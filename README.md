@@ -4,45 +4,6 @@
 # About me
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 
-### 🛠️ &nbsp;Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="65" height="65" />
-        <br>Kotlin
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="65" height="65" />
-        <br>Swift
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/>
-        <br>Android
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
-        <br>Flutter
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
