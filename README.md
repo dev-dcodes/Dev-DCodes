@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dev-dcodes&color=blue" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  <a href="https://github.com/dev-dcodes?tab=followers">
+    <img src="https://img.shields.io/github/followers/dev-dcodes?style=social" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/bindian0509?tab=stars">
-    <img src="https://img.shields.io/github/stars/bindian0509?style=social" alt="GitHub User's stars" />
+  <a href="https://github.com/dev-dcodes?tab=stars">
+    <img src="https://img.shields.io/github/stars/dev-dcodes?style=social" alt="GitHub User's stars" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I believe mobile technology has the power to transform lives. Every line of code
   <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,js,flutter,react,androidstudio,xcode,vscode,git,firebase" alt="Technologies and Tools" />
 </p>
   
-  ### GitHub Analytics
+### GitHub Analytics
   
   <table>
     <tr>
@@ -56,10 +56,10 @@ I believe mobile technology has the power to transform lives. Every line of code
 
 Have a mobile project in mind or need help with iOS/Android development? Let's talk!
 
-You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or contact me on:
+You can reach me at <a href="mailto:dev.dcodes@gmail.com">email</a> or contact me on:
 
-- <a href="mailto:tucorreo@gmail.com">Gmail</a> for direct communication
-- <a href="https://www.linkedin.com/">LinkedIn</a> for professional collaborations
+- <a href="mailto:dev.dcodes@gmail.com">Gmail</a> for direct communication
+- <a href="https://www.linkedin.com/in/dev-dcodes/">LinkedIn</a> for professional collaborations
 
   </td>
     <td width="50%" valign="top">
@@ -83,14 +83,14 @@ You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or contact me 
 
 <div align="center">
   
-<a href="https://www.instagram.com/tu-usuario/">
-  <img src="https://img.shields.io/badge/@tu.usuario-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<a href="https://www.instagram.com/dev-dcodes/">
+  <img src="https://img.shields.io/badge/@dev.dcodes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="mailto:tucorreo@gmail.com">
-  <img src="https://img.shields.io/badge/tucorreo@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="mailto:dev.dcodes@gmail.com">
+  <img src="https://img.shields.io/badge/dev.dcodes@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.linkedin.com/in/tu-usuario/">
-  <img src="https://img.shields.io/badge/Tu%20Nombre-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/dev-dcodes/">
+  <img src="https://img.shields.io/badge/Deivis%20Colmenares-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
