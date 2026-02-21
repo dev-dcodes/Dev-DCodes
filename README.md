@@ -3,10 +3,9 @@
 </div>
 
 <p align="center">
-  <!-- Profile Views -->
+  <!-- Profile Views - Versión funcional -->
   <a href="#">
-    <img src="https://img.shields.io/badge/-Profile%20Views-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile views" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=&query=value&url=https://api.countapi.xyz/get/dev-dcodes/views&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dev-dcodes&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
   
   <!-- Followers -->
