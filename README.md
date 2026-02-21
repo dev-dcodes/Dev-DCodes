@@ -26,10 +26,10 @@ I believe mobile technology has the power to transform lives. Every line of code
 
 <div align="center">
 
+## Tecnologías y Herramientas
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,js,flutter,react,androidstudio,xcode,vscode,git,firebase&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,dart,js,flutter,react,androidstudio,xcode,vscode,git,firebase" />
 </p>
   
   ### GitHub Analytics
