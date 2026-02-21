@@ -29,23 +29,32 @@ System Engineering student passionate about mobile application development. I fo
 </div>
 <br>
 
-  <td width="50%" valign="top">
+<!-- MOBILE DEVELOPER - CONTACTO EN GRID -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+## ¡Trabajemos en tu App Móvil! 📱
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+¿Tienes un proyecto móvil en mente o necesitas ayuda con desarrollo iOS/Android? ¡Escríbeme!
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+Puedes contactarme por <a href="mailto:tucorreo@gmail.com">email</a> o contratarme en:
+
+- <a href="https://www.fiverr.com/">Fiverr</a> como Mobile Developer
+- <a href="https://www.linkedin.com/">LinkedIn</a> para colaboraciones profesionales
+
+Especialista en **React Native, Swift, Kotlin** y aplicaciones multiplataforma.
 
   </td>
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## ¿Buscas mejorar tu App? 🚀
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+**<img alt="Feedback" src="https://img.shields.io/badge/Feedback-Bienvenido-brightgreen">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+"El mejor código es el que nunca se escribe, pero la mejor app es la que llega a los usuarios. Hagamos realidad tu idea."
+
+💡 **¿Tienes feedback?** Siempre estoy abierto a nuevas ideas y oportunidades para crear experiencias móviles increíbles.
 
   </td>
   </tr>
