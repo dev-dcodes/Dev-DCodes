@@ -50,9 +50,9 @@ I believe mobile technology has the power to transform lives. Every line of code
 
 Have a mobile project in mind or need help with iOS/Android development? Let's talk!
 
-You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or hire me on:
+You can reach me at <a href="mailto:tucorreo@gmail.com">email</a> or contact me on:
 
-- <a href="https://www.fiverr.com/">Fiverr</a> as a Mobile Developer
+- <a href="mailto:tucorreo@gmail.com">Gmail</a> for direct communication
 - <a href="https://www.linkedin.com/">LinkedIn</a> for professional collaborations
 
   </td>
