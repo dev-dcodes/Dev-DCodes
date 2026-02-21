@@ -17,13 +17,14 @@
 ## About me
 System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 
-### 💡 My Purpose
+## My Purpose
 I believe mobile technology has the power to transform lives. Every line of code I write is a step toward creating **innovative solutions** that can:
-- 🌍 **Solve real problems** in education, health, and environment
-- 🤝 **Connect people** across cultures and communities
-- 💚 **Make technology accessible** to everyone, everywhere
-- 🚀 **Drive positive change** through thoughtful, user-centered design
-
+- **Solve real problems** in education, health, and environment
+- **Connect people** across cultures and communities
+- **Make technology accessible** to everyone, everywhere
+- **Drive positive change** through thoughtful, user-centered design
+<br>
+<br>
 > *"The best apps are the ones that don't just work well, but actually make the world work a little better."*
 <br>
 <br>
