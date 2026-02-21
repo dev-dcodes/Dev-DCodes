@@ -22,7 +22,11 @@ Computer Science Engineering student passionate about mobile application develop
 ### 📈 &nbsp;Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-dcodes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-dcodes&theme=algolia&bg_color=20232a&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="dev-dcodes" />
 </div>
 
 ### 🤝 &nbsp;Connect with Me
