@@ -24,8 +24,3 @@ Computer Science Engineering student passionate about mobile application develop
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-dcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dcodes" />
-  <img src="https://img.shields.io/github/followers/dev-dcodes?label=Followers&style=social" alt="GitHub followers" />
-</div>
