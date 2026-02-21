@@ -11,7 +11,7 @@
 
 ## About me
 System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
-
+<br>
 
   ### GitHub Analytics
   
