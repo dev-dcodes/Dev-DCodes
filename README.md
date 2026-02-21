@@ -3,14 +3,20 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-dcodes&color=blue" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/dev-dcodes?tab=followers">
-    <img src="https://img.shields.io/github/followers/dev-dcodes?style=social" alt="Followers" />
+  <!-- Profile Views -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Profile%20Views-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile views" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=&query=value&url=https://api.countapi.xyz/get/dev-dcodes/views&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" />
   </a>
-  &nbsp;
+  
+  <!-- Followers -->
+  <a href="https://github.com/dev-dcodes?tab=followers">
+    <img src="https://img.shields.io/github/followers/dev-dcodes?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=2ea44f" alt="Followers" />
+  </a>
+  
+  <!-- Stars -->
   <a href="https://github.com/dev-dcodes?tab=stars">
-    <img src="https://img.shields.io/github/stars/dev-dcodes?style=social" alt="GitHub User's stars" />
+    <img src="https://img.shields.io/github/stars/dev-dcodes?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=ffd700" alt="GitHub User's stars" />
   </a>
 </p>
 
