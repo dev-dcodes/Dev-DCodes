@@ -6,7 +6,9 @@
 Computer Science Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that genuinely connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  ### ⚙️ GitHub Analytics
+</div>
 
 <div align="center">
   <table>
@@ -21,13 +23,17 @@ Computer Science Engineering student passionate about mobile application develop
   </table>
 </div>
 
-### 📈 &nbsp;Contributions
+<div align="center">
+  ### 📈 Contributions
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="dev-dcodes" />
 </div>
 
-### 🤝 &nbsp;Connect with Me
+<div align="center">
+  ### 🤝 Connect with Me
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/tu-perfil-linkedin">
