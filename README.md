@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=5865F2&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Hola!+Soy+Deivis+Colmenaras;Hello!+I'm+Deivis+Colmenaras;Desarrollador+Mobile;Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=5865F2&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Hola!+Soy+Deivis+Colmenares;Hello!+I'm+Deivis+Colmenares;Desarrollador+Mobile;Mobile+Developer" alt="Typing SVG" />
 </h1>
   <p>
     <a href="https://github.com/dev-dcodes">
