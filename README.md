@@ -25,33 +25,49 @@
 
 <br>
 
-<!-- About Me Section -->
+<!-- About Me Section - SIN SCROLL -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <h2>📱 About Me</h2>
-      <p align="justify">
+      <p>
         System Engineering student passionate about mobile application development. I focus on writing clean code and creating digital experiences that truly connect with users. Constantly learning new technologies to become an impactful Mobile Developer.
       </p>
       
       <h2>🎯 My Purpose</h2>
-      <p align="justify">
+      <p>
         I believe mobile technology has the power to transform lives. Every line of code I write is a step toward creating <b>innovative solutions</b> that can:
       </p>
       
-      <ul>
-        <li>🌍 <b>Solve real problems</b> in education, health, and environment</li>
-        <li>🤝 <b>Connect people</b> across cultures and communities</li>
-        <li>💚 <b>Make technology accessible</b> to everyone, everywhere</li>
-        <li>🚀 <b>Drive positive change</b> through thoughtful, user-centered design</li>
-      </ul>
+      <table>
+        <tr>
+          <td width="50%" valign="top">
+            🌍 <b>Solve real problems</b><br>
+            <small>in education, health, and environment</small>
+          </td>
+          <td width="50%" valign="top">
+            🤝 <b>Connect people</b><br>
+            <small>across cultures and communities</small>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top">
+            💚 <b>Make technology accessible</b><br>
+            <small>to everyone, everywhere</small>
+          </td>
+          <td width="50%" valign="top">
+            🚀 <b>Drive positive change</b><br>
+            <small>through thoughtful, user-centered design</small>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://github.com/dev-dcodes.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #5865F2;" alt="Deivis Colmenares"/>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/dev-dcodes.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #5865F2;" alt="Deivis Colmenares"/>
       <br><br>
       <h3>📍 Venezuela</h3>
       <p>
-        <i>"Code with purpose, build with passion"</i>
+        <i>"Code with purpose,<br>build with passion"</i>
       </p>
     </td>
   </tr>
@@ -63,23 +79,31 @@
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
   
+  <br>
+  
+  <!-- Mobile -->
+  <h3>📱 Mobile Development</h3>
   <p>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   </p>
   
+  <!-- Frontend -->
+  <h3>🌐 Frontend Development</h3>
   <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </p>
+  
+  <!-- Tools -->
+  <h3>🔧 Development Tools</h3>
+  <p>
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </p>
-  
-  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
@@ -90,6 +114,8 @@
 <!-- GitHub Analytics -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
+  
+  <br>
   
   <table>
     <tr>
@@ -102,6 +128,8 @@
     </tr>
   </table>
   
+  <br>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dcodes&theme=algolia&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
@@ -113,22 +141,25 @@
     <td width="50%" valign="top" align="center">
       <h2>📱 Let's Work Together</h2>
       <p>
-        Have a mobile project in mind? Need help with iOS/Android development?<br>
-        Let's create something amazing together!
+        Have a mobile project in mind?<br>
+        Need help with iOS/Android development?<br>
+        <b>Let's create something amazing!</b>
       </p>
       <br>
       <a href="mailto:dev.dcodes@gmail.com">
-        <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/📧%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h2>💡 Feedback Welcome</h2>
-      <blockquote>
-        "The best code is the one never written, but the best app is the one that reaches users. Let's make your idea happen."
-      </blockquote>
+      <h2>💬 Open to Feedback</h2>
       <p>
-        <img src="https://img.shields.io/badge/Open%20to-New%20Ideas-brightgreen?style=flat-square" alt="Open to Ideas"/>
-        <img src="https://img.shields.io/badge/Available%20for-Collaboration-blue?style=flat-square" alt="Available for Collaboration"/>
+        <i>"The best code is the one never written,<br>but the best app is the one that reaches users."</i>
+      </p>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/✨-Open%20to%20New%20Ideas-brightgreen?style=flat-square" alt="Open to Ideas"/>
+        <br>
+        <img src="https://img.shields.io/badge/🤝-Available%20for%20Collaboration-blue?style=flat-square" alt="Available for Collaboration"/>
       </p>
     </td>
   </tr>
@@ -139,6 +170,8 @@
 <!-- Social Links -->
 <div align="center">
   <h2>📬 Connect With Me</h2>
+  
+  <br>
   
   <a href="https://www.instagram.com/dev.dcodes/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -154,5 +187,16 @@
   </a>
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<br>
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  
+  <br>
+  
+  <p>
+    <small>⭐ From <a href="https://github.com/dev-dcodes">dev-dcodes</a> with passion for mobile development</small>
+  </p>
+</div>
