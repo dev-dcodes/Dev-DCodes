@@ -25,9 +25,10 @@ I believe mobile technology has the power to transform lives. Every line of code
 - **Drive positive change** through thoughtful, user-centered design
 <br>
 
-### GitHub Analytics
-  
 <div align="center">
+  
+  ### GitHub Analytics
+  
   <table>
     <tr>
       <td width="50%">
